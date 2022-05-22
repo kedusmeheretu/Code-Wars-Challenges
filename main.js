@@ -7,7 +7,7 @@ function descendingOrder(n){
     return a - b; 
   });
   
-  strNumArrSort = strNumArrSort.reverse();
+  strNumArrSort = strNumArrSort.reverse()
   strNum = strNumArrSort.join('');
   
   return parseInt(strNum);
