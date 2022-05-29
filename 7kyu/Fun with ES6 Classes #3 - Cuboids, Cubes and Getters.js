@@ -25,7 +25,7 @@ class Cuboid {
 }
 class Cube extends Cuboid {
   constructor(length) {
-    super(length, length, length);
+    super(length, length, length)
   }
 }
 
