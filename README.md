@@ -1,1 +1,1 @@
-# CodeWarsChallenges
+# CodeWarsKatas
