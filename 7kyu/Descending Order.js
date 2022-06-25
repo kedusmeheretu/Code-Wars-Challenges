@@ -10,7 +10,7 @@ function descendingOrder(n){
   strNumArrSort = strNumArrSort.reverse();
   strNum = strNumArrSort.join('');
   
-  return parseInt(strNum)
+  return parseInt(strNum);
   
 }
 
