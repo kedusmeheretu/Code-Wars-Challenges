@@ -1,1 +1,3 @@
 # CodeWarsKatas
+
+CodeWarsKatas uploaded daily!
