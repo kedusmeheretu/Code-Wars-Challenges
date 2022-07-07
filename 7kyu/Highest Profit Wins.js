@@ -2,7 +2,7 @@
 
 
 function lowHigh(arr){
-  return [Math.min(...arr), Math.max(...arr)]
+  return [Math.min(...arr), Math.max(...arr)];
   }
 
 
