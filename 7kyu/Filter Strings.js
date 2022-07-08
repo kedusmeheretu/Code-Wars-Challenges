@@ -8,7 +8,7 @@ function filter_list(arr) {
       noStringsArr.push(el);
     }
   });
-  return noStringsArr;
+  return noStringsArr
 }
 
 // Test
