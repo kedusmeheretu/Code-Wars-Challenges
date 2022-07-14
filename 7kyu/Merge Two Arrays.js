@@ -14,4 +14,4 @@ function mergeArrays(a, b) {
 }
 
 // Test
-console.log(mergeArrays([1,2,3,4,5],['a','b','c','d','e']))
+console.log(mergeArrays([1,2,3,4,5],['a','b','c','d','e']));
